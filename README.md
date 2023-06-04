@@ -10,12 +10,12 @@
 ### React
 ```json
   {
-    "extends": ["pretty-eslint/react"]
+    "extends": ["@pretty-eslint/eslint-config/react"]
   }
 ```
 ### Node
 ```json
   {
-    "extends": ["pretty-eslint/node"]
+    "extends": ["@pretty-eslint/eslint-config/node"]
   }
 ```
